@@ -538,7 +538,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /**  tab的 style 
          */
         public static final int CustomTabPageIndicator=0x7f060001;
-        public static final int CustomTabPageIndicator_text=0x7f060002;
         /**  下标的指示器的颜色 
          */
         public static final int CustomUnderlinePageIndicator=0x7f060003;
@@ -546,6 +545,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /**  总 style  直接引用  这个   由  tab style  和    Indicator style 组成 
          */
         public static final int StyledAllIndicators=0x7f060000;
+        public static final int TextAppearance_CustomTabPageIndicator=0x7f060002;
         public static final int TextAppearance_TabPageIndicator=0x7f06000a;
         public static final int Theme_PageIndicatorDefaults=0x7f060007;
         public static final int Widget=0x7f060008;
